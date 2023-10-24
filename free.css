@@ -1,0 +1,15 @@
+body {
+    background-color:maroon;
+    display: grid;
+}
+
+h1 {
+    color:beige
+}
+
+p{
+    color: blanchedalmond;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
